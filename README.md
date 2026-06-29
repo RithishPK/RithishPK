@@ -1,1 +1,1 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=60&lines=AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Building+Intelligent+Security+Systems+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%93%9A)](https://git.io/typing-svg)
